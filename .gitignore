@@ -1,0 +1,11 @@
+### python ###
+__pycache__/
+*.pyc
+
+### docker ###
+*.bat
+Dockerfile*
+.dockerignore
+
+### secret_key ###
+__*.key

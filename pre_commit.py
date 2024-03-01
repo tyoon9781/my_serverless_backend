@@ -8,8 +8,6 @@ runner = unittest.TextTestRunner()
 result = runner.run(suite)
 
 
-
-
 if result.wasSuccessful():
     sys.exit(0)
 else:
